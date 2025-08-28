@@ -6,7 +6,7 @@ I'm a Front-end Developer with over 4 years of experience building web and mobil
 
 📍 **Location:** Caracas, Venezuela  
 📧 **Email:** reinaldorrivas@gmail.com  
-🎂 **Date of Birth:** 08/08/1989  
+🎂 **Date of Birth:** 08/05/1989  
 🌎 **Nationality:** Venezuelan  
 
 ---
